@@ -1,4 +1,5 @@
-﻿<?php
+﻿// Quan da up len nhanh
+<?php
 include "config.php";
 ?>
 <!DOCTYPE html>
